@@ -1,17 +1,7 @@
 theme: 
-  - osuny
+  - agriculturepaysanne-theme
   - osuny-plugin-centered-footer
 _merge: deep
 params:
-  summary:
-    position: hero
-  breadcrumb:
-    position: after-hero
-  search:
-    active: true
   logo:
-    header: '/assets/images/logo.svg'
-    footer: '/assets/images/flower.svg'
-  home:
-    head:
-      title: site
+    header: '/assets/images/logo-fadear.svg'

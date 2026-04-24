@@ -15,6 +15,6 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/agenda/2026/transformer-son-ble-en-pain/julie-poiret-boulangere-la-mie-julie/"
+from = "/agenda/2026/transformer-son-ble-en-pain/julie-poiret-boulangere-la-mie-julie/index.html"
 to = "/agenda/2026/transformer-son-ble-en-pain/julie-poiret/"
 
